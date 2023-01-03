@@ -1,7 +1,7 @@
 - :raising_hand_woman: Hi, I’m @lauble
 - :school: I’m a Fullstack Software Engineer and graduate of The Grace Hopper Program at Fullstack Academy
 - :test_tube: I have a master's degree in Pyschology and 4+ years of experience managing clinical research trials
-- :computer: I’m currently working on ... building a personal website
+- :computer: I’m currently working on ... learning Python 3
 
 <!---
 lauble/lauble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
