@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [using Tailwindcss with React.js](https://github.com/lauble/travel-checklist)
 
-- 🌱 I’m currently learning **Swift, SwiftUI, Azure, Flask, Authorization features**
+- 🌱 I’m currently learning **Swift, SwiftUI, Azure, Flask, Firebase**
 
 - ⚡ Fun fact **I used to be a powerlifter!**
 
