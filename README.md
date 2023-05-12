@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lauren</h1>
 <h3 align="center">Fullstack Software Engineer</h3>
 
-- 🔭 I’m currently working on [using Tailwindcss with React.js](https://github.com/lauble/travel-checklist)
+- 🌱 I’m currently learning **Angular, TypeScript, Bulma**
 
-- 🌱 I’m currently learning **Swift, SwiftUI, Azure, Flask, Firebase**
+- 📫 How to reach me **lauren.noble3@gmail.com**
 
 - ⚡ Fun fact **I used to be a powerlifter!**
 
