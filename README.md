@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lauren</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 
-- 🌱 I’m currently learning **Angular, TypeScript, Bulma**
+- 🔭 I’m currently working on **building my portfolio**
 
-- 📫 How to reach me **lauren.noble3@gmail.com**
+- 🌱 I’m currently learning **lots of things at MLH's GHW: Data Week**
 
 - ⚡ Fun fact **I used to be a powerlifter!**
 
