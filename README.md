@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lauren</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on [contributing to open source](https://github.com/lauble/Rapid)
+- 🔭 I’m currently working on learning Vue.js
 
 - ⚡ Fun fact **I used to be a powerlifter!**
 
